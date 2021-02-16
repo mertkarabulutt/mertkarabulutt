@@ -1,7 +1,5 @@
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2F4k-matrix&psig=AOvVaw1-uWZI0jv9romEBUC9uHlS&ust=1613560507490000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKD0y7qj7u4CFQAAAAAdAAAAABAy)
 <p>
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fsmithjerry%2Fart%2FMatrix-Code-Animated-HD-Wallpaper-757180679&psig=AOvVaw3YL7xlM9m2n_ow6MXwqOjw&ust=1613560275252000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCQ1Myi7u4CFQAAAAAdAAAAABAd" alt="github"> Github
-  </a>
   <a href="https://www.linkedin.com/in/mert-karabulut-1b0616127?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlaiRj8ulQHGWW912M7xvWA%3D%3D" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a>
