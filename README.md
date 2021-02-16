@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there 👋,
-
 I am a Software Developer who creates blog posts and open source packages mainly about python and data engineering. I have a passion for learning and sharing my knowledge with others as public as possible. 
